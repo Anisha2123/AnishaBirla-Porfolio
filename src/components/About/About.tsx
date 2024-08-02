@@ -1,6 +1,7 @@
 import { Container } from "./styles";
 import VinayakSingh from "../../assets/VinayakSingh.png";
 import wordpress from "../../assets/wordpress.svg";
+// import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
